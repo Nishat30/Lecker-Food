@@ -205,7 +205,7 @@ Run: `gunicorn food_stall_project.wsgi:application`
 ---
 
 ### 🤖 AI Menu Recommendation
-![AI Menu](SnapShots/Ai_Menu.png)
+![AI Menu](SnapShots/AI-Menu.png)
 
 ---
 
@@ -215,4 +215,4 @@ Run: `gunicorn food_stall_project.wsgi:application`
 ---
 
 ### 🏪 My Stalls (Admin View)
-![My Stalls](SnapShots/My_Stalls.png)
+![My Stalls](SnapShots/Food-Stalls.png)
