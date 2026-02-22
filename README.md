@@ -195,24 +195,24 @@ Run: `gunicorn food_stall_project.wsgi:application`
 ## 📸 Application Snapshots
 
 ### 🏠 Home Page
-![Home Page](SnapShots/Home.png)
+![Home Page](SnapShots/Home1.png)
 
 ---
 
 ### 🍽️ Menu Page
-![Menu Page](SnapShots/Menu.png)
+![Menu Page](SnapShots/Menu1.png)
 
 ---
 
 ### 🤖 AI Menu Recommendation
-![AI Menu](SnapShots/AI-Menu.png)
+![AI Menu](SnapShots/AI-Menu1.png)
 
 ---
 
 ### 📦 My Orders
-![My Orders](SnapShots/My_Orders.png)
+![My Orders](SnapShots/My_Orders1.png)
 
 ---
 
 ### 🏪 My Stalls (Admin View)
-![My Stalls](SnapShots/Food-Stalls.png)
+![My Stalls](SnapShots/Food-Stalls1.png)
